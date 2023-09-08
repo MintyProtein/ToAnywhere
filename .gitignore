@@ -1,0 +1,12 @@
+*.pth
+*.pt
+__pycache__/
+*.zip
+*.pem
+*.key
+*.mar
+logs/
+*.tgz
+*.pl2
+model_checkpoints/
+.venv/
